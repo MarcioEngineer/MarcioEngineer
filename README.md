@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-<div>https://s6.ezgif.com/tmp/ezgif-63c45b79f5c9e098.gif
-</div>
+https://github.com/user-attachments/assets/9bff66da-39bf-45f9-b32f-613c098872d0
