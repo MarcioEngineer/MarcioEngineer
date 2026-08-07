@@ -14,6 +14,8 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de software. Atua
 
 <img align="right" alt="" height="190px" src="./src/ezgif-63c45b79f5c9e098.gif">
 
+<br clear="right">
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:marcioflozino.engineer@gmail.com)
