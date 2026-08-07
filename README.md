@@ -6,9 +6,9 @@
 
 #
 
-Olá, eu sou o Márcio Flozino Junior 🎓 Estudante de Engenharia de Software
+Olá, eu sou o Márcio, estudante de Engenharia de Software.
 
-Sou apaixonado por tecnologia, programação e desenvolvimento de software. Atualmente estou construindo uma base sólida em desenvolvimento, bancos de dados, algoritmos e boas práticas de engenharia de software, buscando evoluir constantemente por meio de projetos práticos e estudos.
+Sou apaixonado por tecnologia, programação e desenvolvimento de software. Atualmente estou construindo uma base sólida em desenvolvimento, bancos de dados, algoritmos, aprendendo várias linguagens e boas práticas de engenharia de software, buscando evoluir constantemente por meio de projetos práticos e estudos.
  
 #
 
