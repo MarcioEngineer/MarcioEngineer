@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de software. Atua
  
 #
 
-<img align="right" alt="" height="190px" src="./src/ezgif-63c45b79f5c9e098.gif">
+<img align="right" alt="" height="250px" src="./src/ezgif-63c45b79f5c9e098.gif">
 
 <br clear="right">
 
