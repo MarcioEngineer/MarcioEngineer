@@ -75,6 +75,15 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de software. Atua
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"          
 />
 
+<img
+    align="left"
+    alt="Vercel"
+    title="Vercel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"          
+/>
+
 <br/>
 <br/>
 
